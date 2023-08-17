@@ -2,6 +2,7 @@
 
 can detect multiple barcodes in iages even if partial or blurred.
 Code display 3 images - input image,image with yolo detected objects with bounding box,bounding boxes over barcodes
+
 1.
 ![Screenshot from 2023-08-17 22-59-34](https://github.com/shriram272/barcode/assets/99411053/affeb79a-a450-4242-ac4e-7c5a71df068a)
 ![Screenshot from 2023-08-17 22-59-56](https://github.com/shriram272/barcode/assets/99411053/691b551e-7516-400d-a98a-2552cf59f60c)
